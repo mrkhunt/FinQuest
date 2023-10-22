@@ -10,3 +10,13 @@ Welcome to the Finquest project, our innovative solution that reimagines the fut
 2. Professional Networking and Learning Zone: This area allows users to connect with financial professionals, attend virtual workshops, and participate in interactive learning experiences. It's the perfect place for individuals to gain valuable insights and make connections that can shape their financial future.
 
 3. Social Hub Zone: This zone is dedicated to helping users enhance their communication skills. Through engaging activities, users can improve their ability to express ideas, collaborate, and build strong interpersonal relationships.
+
+## Technology Stack
+Our project leverages the following technologies:
+
+- **Virtual Reality (VR)**: To provide an immersive and interactive environment.
+- **5G Technology**: To ensure seamless and high-speed connectivity.
+- **Unity**: For game development and VR integration.
+- **Networking Services**: To facilitate professional connections and social interactions.
+
+We have the following contents from the Demo:
