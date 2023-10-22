@@ -21,4 +21,5 @@ Our project leverages the following technologies:
 
 ## Demo
 We have the following contents from the Demo:
+
 ![](https://github.com/mrkhunt/FinQuest/blob/main/demo.gif)
