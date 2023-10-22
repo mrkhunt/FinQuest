@@ -20,6 +20,6 @@ Our project leverages the following technologies:
 - **Networking Services**: To facilitate professional connections and social interactions.
 
 ## Demo
-We have the following contents from the Demo:
+We have the following Demo of a sample room:
 
 ![](https://github.com/mrkhunt/FinQuest/blob/main/demo.gif)
