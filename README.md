@@ -19,4 +19,6 @@ Our project leverages the following technologies:
 - **Unity**: For game development and VR integration.
 - **Networking Services**: To facilitate professional connections and social interactions.
 
+## Demo
 We have the following contents from the Demo:
+![](https://github.com/mrkhunt/FinQuest/blob/main/demo.gif)
