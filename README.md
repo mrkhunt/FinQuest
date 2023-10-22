@@ -26,8 +26,8 @@ We have the following Demo of a sample room:
 
 
 ## Contributors:
-[Zafar](https://www.linkedin.com/in/zerkinboev/)
-[Mahdi](https://www.linkedin.com/in/mrkhunt/)
-[Ashin](https://www.linkedin.com/in/ashin-james/)
-[Silvia](https://www.linkedin.com/in/shuo-silvia-ban/)
-[Karmanbir](https://www.linkedin.com/in/karmanbir/)
+- [Zafar](https://www.linkedin.com/in/zerkinboev/)
+- [Mahdi](https://www.linkedin.com/in/mrkhunt/)
+- [Ashin](https://www.linkedin.com/in/ashin-james/)
+- [Silvia](https://www.linkedin.com/in/shuo-silvia-ban/)
+- [Karmanbir](https://www.linkedin.com/in/karmanbir/)
